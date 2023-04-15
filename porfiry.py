@@ -6,8 +6,6 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.llms import OpenAI
 from langchain.chains import ConversationalRetrievalChain
 
-text = 'crime-and-punishment.txt'
-
 from langchain.document_loaders import TextLoader 
 loader = TextLoader('crime-and-punishment.txt')
 documents = loader.load()
