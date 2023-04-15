@@ -1,5 +1,5 @@
 # Porfiry
-A script that allows you to ask ChatGPT questions about a given text file and get textually-supported responses. 
+A script that allows you to ask ChatGPT questions about a given (very long) text file and get textually-supported responses. 
 Adapted from tutorial on LangChain at (https://python.langchain.com/en/latest/modules/chains/index_examples/chat_vector_db.html)
 
 A nifty feature: The script actually shows you where in the text it got the answer from. How cool!
